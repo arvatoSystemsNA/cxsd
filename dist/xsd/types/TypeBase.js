@@ -86,3 +86,4 @@ var TypeBase = (function (_super) {
     return TypeBase;
 }(Base_1.Base));
 exports.TypeBase = TypeBase;
+//# sourceMappingURL=TypeBase.js.map

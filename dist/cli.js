@@ -56,3 +56,4 @@ function handleConvert(urlRemote, opts) {
         }
     });
 }
+//# sourceMappingURL=cli.js.map

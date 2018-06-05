@@ -24,3 +24,4 @@ var MissingReferenceError = (function (_super) {
     return MissingReferenceError;
 }(Error));
 exports.MissingReferenceError = MissingReferenceError;
+//# sourceMappingURL=MissingReferenceError.js.map

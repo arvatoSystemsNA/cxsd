@@ -49,3 +49,4 @@ var Transform = (function () {
     return Transform;
 }());
 exports.Transform = Transform;
+//# sourceMappingURL=Transform.js.map

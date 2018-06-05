@@ -22,3 +22,4 @@ var Extension = (function (_super) {
     return Extension;
 }(DerivationBase_1.DerivationBase));
 exports.Extension = Extension;
+//# sourceMappingURL=Extension.js.map

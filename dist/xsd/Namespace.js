@@ -58,3 +58,4 @@ var Namespace = (function (_super) {
     return Namespace;
 }(cxml.NamespaceBase));
 exports.Namespace = Namespace;
+//# sourceMappingURL=Namespace.js.map

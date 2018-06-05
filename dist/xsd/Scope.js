@@ -153,3 +153,4 @@ var Scope = (function () {
     return Scope;
 }());
 exports.Scope = Scope;
+//# sourceMappingURL=Scope.js.map

@@ -1,9 +1,10 @@
-import { State } from '../State';
 import { QName } from '../QName';
+import { State } from '../State';
 import * as types from '../types';
 /** <xsd:complextype> */
 export declare class ComplexType extends types.TypeBase {
     static mayContain: () => types.BaseClass[];
+    resolve(state: State): void;
 }
 export declare class ContentBase extends types.Base {
     static mayContain: () => types.BaseClass[];

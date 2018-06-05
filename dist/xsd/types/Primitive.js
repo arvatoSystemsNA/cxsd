@@ -22,3 +22,4 @@ var Primitive = (function (_super) {
     return Primitive;
 }(TypeBase_1.TypeBase));
 exports.Primitive = Primitive;
+//# sourceMappingURL=Primitive.js.map

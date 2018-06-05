@@ -41,3 +41,4 @@ var Base = (function () {
     return Base;
 }());
 exports.Base = Base;
+//# sourceMappingURL=Base.js.map

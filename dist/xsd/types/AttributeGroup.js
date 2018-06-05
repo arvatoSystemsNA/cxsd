@@ -53,3 +53,4 @@ var AttributeGroup = (function (_super) {
     return AttributeGroup;
 }(types.Base));
 exports.AttributeGroup = AttributeGroup;
+//# sourceMappingURL=AttributeGroup.js.map

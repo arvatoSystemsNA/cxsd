@@ -32,3 +32,4 @@ var Enumeration = (function (_super) {
     return Enumeration;
 }(types.Base));
 exports.Enumeration = Enumeration;
+//# sourceMappingURL=Enumeration.js.map

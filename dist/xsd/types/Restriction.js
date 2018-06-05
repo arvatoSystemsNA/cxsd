@@ -54,3 +54,4 @@ var Restriction = (function (_super) {
     return Restriction;
 }(DerivationBase_1.DerivationBase));
 exports.Restriction = Restriction;
+//# sourceMappingURL=Restriction.js.map

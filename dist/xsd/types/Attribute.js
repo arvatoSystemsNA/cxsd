@@ -42,3 +42,4 @@ var Attribute = (function (_super) {
     return Attribute;
 }(MemberBase_1.MemberBase));
 exports.Attribute = Attribute;
+//# sourceMappingURL=Attribute.js.map

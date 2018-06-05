@@ -33,3 +33,4 @@ var TypedBase = (function (_super) {
     return TypedBase;
 }(types.Base));
 exports.TypedBase = TypedBase;
+//# sourceMappingURL=TypedBase.js.map

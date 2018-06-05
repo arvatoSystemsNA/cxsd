@@ -14,3 +14,4 @@ var MemberRef_1 = require("./schema/MemberRef");
 exports.MemberRef = MemberRef_1.MemberRef;
 var exporter = require("./schema/exporter");
 exports.exporter = exporter;
+//# sourceMappingURL=schema.js.map

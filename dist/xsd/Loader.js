@@ -54,3 +54,4 @@ var Loader = (function () {
     return Loader;
 }());
 exports.Loader = Loader;
+//# sourceMappingURL=Loader.js.map

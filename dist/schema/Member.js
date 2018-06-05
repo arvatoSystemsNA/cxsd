@@ -44,3 +44,4 @@ var Member = (function (_super) {
     return Member;
 }(cxml.MemberBase));
 exports.Member = Member;
+//# sourceMappingURL=Member.js.map

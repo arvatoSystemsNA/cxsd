@@ -34,3 +34,4 @@ var SimpleType = (function (_super) {
     return SimpleType;
 }(types.TypeBase));
 exports.SimpleType = SimpleType;
+//# sourceMappingURL=SimpleType.js.map

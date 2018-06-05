@@ -43,3 +43,4 @@ var DerivationBase = (function (_super) {
     return DerivationBase;
 }(types.Base));
 exports.DerivationBase = DerivationBase;
+//# sourceMappingURL=DerivationBase.js.map

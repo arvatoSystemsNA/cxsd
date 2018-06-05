@@ -12,6 +12,7 @@ var __extends = (this && this.__extends) || (function () {
     };
 })();
 Object.defineProperty(exports, "__esModule", { value: true });
+var QName_1 = require("../QName");
 var types = require("../types");
 /** <xsd:complextype> */
 var ComplexType = (function (_super) {
@@ -19,6 +20,12 @@ var ComplexType = (function (_super) {
     function ComplexType() {
         return _super !== null && _super.apply(this, arguments) || this;
     }
+    ComplexType.prototype.resolve = function (state) {
+        if (state.attributeTbl['mixed'] === 'true') {
+            var base = new QName_1.QName('xs:string', state.source);
+            state.xsdElement.parent = this.scope.lookup(base, 'type');
+        }
+    };
     ComplexType.mayContain = function () { return [
         types.Annotation,
         SimpleContent,
@@ -72,3 +79,4 @@ var ComplexContent = (function (_super) {
     return ComplexContent;
 }(ContentBase));
 exports.ComplexContent = ComplexContent;
+//# sourceMappingURL=ComplexType.js.map

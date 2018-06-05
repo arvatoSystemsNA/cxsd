@@ -51,3 +51,4 @@ var QName = (function () {
     return QName;
 }());
 exports.QName = QName;
+//# sourceMappingURL=QName.js.map

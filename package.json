@@ -1,6 +1,6 @@
 {
   "name": "cxsd",
-  "version": "0.1.1",
+  "version": "0.1.1-arvatofix",
   "description": "Streaming XSD parser and XML parser generator with TypeScript output",
   "bin": {
     "cxsd": "cxsd-cli.js"
@@ -30,17 +30,16 @@
     "typescript"
   ],
   "dependencies": {
-    "bluebird": "^3.4.1",
-    "cget": "~0.2.1",
-    "commander": "~2.9.0",
+    "bluebird": "^3.5.1",
+    "cget": "github:arvatoSystemsNA/cget#0.2.1af",
+    "commander": "~2.15.1",
     "cxml": "~0.1.1",
     "node-expat": "~2.3.15"
   },
   "devDependencies": {
-    "@types/bluebird": "^3.5.16",
-    "@types/commander": "^2.11.0",
+    "@types/bluebird": "^3.5.20",
     "@types/node": "^8.0.45",
-    "@types/request": "^2.0.6",
+    "@types/request": "^2.47.0",
     "source-map-support": "^0.5.3",
     "ts-node": "^4.1.0",
     "typescript": "~2.4.2"

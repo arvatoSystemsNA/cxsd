@@ -34,3 +34,4 @@ var Union = (function (_super) {
     return Union;
 }(TypedBase_1.TypedBase));
 exports.Union = Union;
+//# sourceMappingURL=Union.js.map

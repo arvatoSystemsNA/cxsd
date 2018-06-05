@@ -245,3 +245,4 @@ var Sanitize = (function (_super) {
     return Sanitize;
 }(Transform_1.Transform));
 exports.Sanitize = Sanitize;
+//# sourceMappingURL=Sanitize.js.map

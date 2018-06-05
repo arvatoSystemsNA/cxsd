@@ -25,3 +25,4 @@ var Annotation = (function (_super) {
     return Annotation;
 }(types.Base));
 exports.Annotation = Annotation;
+//# sourceMappingURL=Annotation.js.map

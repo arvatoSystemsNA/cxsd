@@ -68,3 +68,4 @@ var MemberBase = (function (_super) {
     return MemberBase;
 }(TypedBase_1.TypedBase));
 exports.MemberBase = MemberBase;
+//# sourceMappingURL=MemberBase.js.map

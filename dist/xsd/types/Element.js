@@ -60,3 +60,4 @@ var Element = (function (_super) {
     return Element;
 }(MemberBase_1.MemberBase));
 exports.Element = Element;
+//# sourceMappingURL=Element.js.map

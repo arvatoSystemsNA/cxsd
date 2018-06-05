@@ -37,3 +37,4 @@ var Documentation = (function (_super) {
     return Documentation;
 }(types.Base));
 exports.Documentation = Documentation;
+//# sourceMappingURL=Documentation.js.map

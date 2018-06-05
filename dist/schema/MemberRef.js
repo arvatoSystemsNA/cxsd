@@ -21,3 +21,4 @@ var MemberRef = (function (_super) {
     return MemberRef;
 }(cxml.MemberRefBase));
 exports.MemberRef = MemberRef;
+//# sourceMappingURL=MemberRef.js.map
